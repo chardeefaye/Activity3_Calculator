@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">calculator_leosala</string>
+    <string name="one">Uno (1)</string>
+    <string name="two">Dos (2)</string>
+    <string name="three">Tres (3)</string>
+    <string name="four">Cuatro (4)</string>
+    <string name="five">Cinco (5)</string>
+    <string name="six">Seis (6)</string>
+    <string name="seven">Siete (7)</string>
+    <string name="eight">Ocho (8)</string>
+    <string name="nine">Nueve (9)</string>
+    <string name="zero">Cero (0)</string>
+    <string name="plus">Poisitivo (+)</string>
+    <string name="equal">Igual (=)</string>
+</resources>
